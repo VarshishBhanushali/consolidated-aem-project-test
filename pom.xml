@@ -27,7 +27,7 @@
     <modules>
         <module>dispatcher</module>
         <module>mysite</module>
-        <module>test-aem-project</module>
+        <module>aem-guides-wknd</module>
     </modules>
 
     <properties>
